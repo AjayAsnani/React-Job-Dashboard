@@ -56,7 +56,7 @@ const Navbar = () => {
           </div>
         </a>
         <img src="/right.png" alt="Notifications" className="h-7 w-7 " />
-        <IoIosArrowDown alt="Down Arrow" className="h-5 w-5" />
+        <IoIosArrowDown alt="Down Arrow" className="h-5 w-5 " />
       </div>
     </nav>
   );

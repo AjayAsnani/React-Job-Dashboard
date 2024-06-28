@@ -19,7 +19,7 @@ const Details = () => {
             </div>
           </div>
           <div className="flex items-center bg-green-100 text-green-700 px-2 py-1 rounded-full border border-green-700">
-            <span className="w-3 h-3 bg-green-500 rounded-full mr-2"></span>
+            <span className="w-2 h-2 bg-green-500 rounded-full mr-2"></span>
             <span>Open</span>
           </div>
         </div>
